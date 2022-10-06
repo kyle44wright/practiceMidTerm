@@ -12,3 +12,4 @@ change the status attribute to False.
 2) a Booking class that has attributes for customer name and
 seat number. Create accessor methods for both attributes.'''
         
+yuh = 1
